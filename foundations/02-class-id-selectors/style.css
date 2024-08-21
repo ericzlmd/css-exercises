@@ -9,3 +9,8 @@
    color: blue;
    font-size: 36px;
 }
+
+/* * **The third element**: in addition to the styles for all odd numbered elements, add a font size of 24px */
+#third {
+   font-size: 24px;
+}
