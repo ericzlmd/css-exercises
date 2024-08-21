@@ -14,3 +14,10 @@
 #third {
    font-size: 24px;
 }
+
+/* * **The fourth element**: a light green background, a font size of 24px, and bold */
+#fourth {
+   background: rgb(161, 242, 143);
+   font-size: 24px;
+   font-weight: bold;
+}
